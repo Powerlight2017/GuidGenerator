@@ -21,6 +21,4 @@
      <packageType name="DotnetTool" />
     </packageTypes>
   </metadata>
-  <files>
-  </files>
 </package>
