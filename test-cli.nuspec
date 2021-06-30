@@ -11,11 +11,10 @@
     <description>
      Test-CLI
     </description>
-   <summary>View and convert documents, intuitive and powerful GroupDocs.Viewer dotnet tool CLI.</summary>
+   <summary>TEST</summary>
    <copyright>TEST</copyright>
    <tags>
-    Document-Viewer CLI Html-Viewer Image-Viewer PDF-Viewer
-    Doc-Viewer PDF Word Excel PowerPoint EMail Image PDF DOC DOCX NUMBERS XLS XLSX PPT PPTX TIFF PNG JPG
+test
    </tags>
    <packageTypes>
      <packageType name="DotnetTool" />
